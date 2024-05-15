@@ -4,6 +4,11 @@
 
 This project is a full-stack Todo application built using React and NestJs. It allows users to create, manage, and prioritize tasks. The project includes user authentication and authorization, ensuring that tasks are secure and only accessible to the authenticated user.
 
+## Screenshots
+
+![UI Screenshot 1](https://raw.githubusercontent.com/nz-m/todo-app/main/ui_screenshot/UI(1).png)
+![UI Screenshot 2](https://raw.githubusercontent.com/nz-m/todo-app/main/ui_screenshot/UI.png)
+
 ## Technologies Used
 
 ### Frontend
